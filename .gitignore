@@ -37,3 +37,6 @@ nosetests.xml
 # Komodo
 .komodotools/
 *.komodoproject
+
+# Mac OSX
+.DS_Store
